@@ -1,0 +1,6 @@
+.wwebjs_auth
+.wwebjs_cache
+.wwebjs_localstorage
+node_modules
+pnpm-lock.yaml
+pnpm-workspace.yaml

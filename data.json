@@ -1,0 +1,29 @@
+[
+  {
+    "tanggal": "2025-06-13",
+    "line": "line1",
+    "produk": "produk1",
+    "mulai": "07:00",
+    "selesai": "17:00",
+    "qty": 500,
+    "operator": "6285158909844@c.us"
+  },
+  {
+    "tanggal": "2025-06-13",
+    "line": "line2",
+    "produk": "djungelskog",
+    "mulai": "07:00",
+    "selesai": "16:00",
+    "qty": 800,
+    "operator": "6285158909844@c.us"
+  },
+  {
+    "tanggal": "2025-06-13",
+    "line": "line3",
+    "produk": "kopi",
+    "mulai": "08:00",
+    "selesai": "16:00",
+    "qty": 500,
+    "operator": "6285158909844@c.us"
+  }
+]
