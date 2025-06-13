@@ -25,5 +25,16 @@
     "selesai": "16:00",
     "qty": 500,
     "operator": "6285158909844@c.us"
+  },
+  {
+    "id": "JOVGFH",
+    "tanggal": "2025-06-13",
+    "waktu": "2025-06-13T06:01:45.277Z",
+    "line": "line4",
+    "produk": "susu",
+    "mulai": "07:00",
+    "selesai": "16:00",
+    "qty": 800,
+    "operator": "6285158909844@c.us"
   }
 ]
